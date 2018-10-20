@@ -1,2 +1,3 @@
-# cheatsheet
-List of cheatsheets I occasionally use
+# cheatsheets
+
+I occasionally use these cheatsheets
